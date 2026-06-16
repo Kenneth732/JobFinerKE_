@@ -1,0 +1,86 @@
+# ============================================
+# DJANGO
+# ============================================
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# ============================================
+# ENVIRONMENT & SECRETS
+# ============================================
+.env
+.env.*
+*.env
+
+# ============================================
+# VIRTUAL ENVIRONMENT
+# ============================================
+venv/
+.venv/
+env/
+.env/
+Pipfile.lock
+poetry.lock
+
+# ============================================
+# IDE & EDITOR
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================
+# PYTHON
+# ============================================
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+pip-log.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# ============================================
+# OS
+# ============================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================================
+# NGINX / DEPLOYMENT
+# ============================================
+nginx.conf
+*.pem
+*.key
+*.crt
+
+# ============================================
+# PAYMENT LOGS (M-Pesa callbacks)
+# ============================================
+payment_logs/
+mpesa_callback_logs/
+
+# ============================================
+# DUMP DATA (test data, not for production)
+# ============================================
+datadump.json
+fixtures/
+

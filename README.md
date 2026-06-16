@@ -415,7 +415,7 @@ sudo systemctl restart nginx
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -431,17 +431,17 @@ Coding standards:
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📧 Contact & Support
+##  Contact & Support
 
 - **Email**: support@jobfinder.ke
-- **Phone**: +254 700 000 000
-- **WhatsApp**: +254 700 000 000
+- **Phone**: +254 742 164 615
+- **WhatsApp**: +254 742 164 615
 - **Website**: [https://jobfinder.ke](https://jobfinder.ke)
 
 ---
